@@ -1684,7 +1684,7 @@
     (property "Reference" "J1" (at 45.72 78.74 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Conn_01x03" (at 45.72 81.28 0)
+    (property "Value" "Video In" (at 45.72 81.28 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (at 48.26 80.01 0)
